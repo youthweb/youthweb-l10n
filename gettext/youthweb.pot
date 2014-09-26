@@ -1,0 +1,23 @@
+# Youthweb language file.
+# Copyright (C) 2004-2014 Youthweb e.V.
+# This file is distributed under the same license as the youthweb package.
+# Youthweb e.V. <info@youthweb.net>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: youthweb\n"
+"Report-Msgid-Bugs-To: support@youthweb.net\n"
+"POT-Creation-Date: 2014-05-23 12:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, php-format
+msgctxt "Username"
+msgid "Hello %s"
+msgstr ""
