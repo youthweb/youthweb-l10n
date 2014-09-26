@@ -1,0 +1,20 @@
+{
+	"name": "youthweb/l10n",
+	"description": "PHP-Interface for Youthweb Localization",
+	"keywords": ["youthweb", "gettext", "i18n", "l10n"],
+	"homepage": "http://youthweb.net/",
+	"require": {
+		"php": ">=5.3",
+		"maxakawizard/mo-reader": "0.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Youthweb\\L10n\\": "lib/php/src"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1-dev"
+		}
+	}
+}
